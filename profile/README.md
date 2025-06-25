@@ -1,4 +1,5 @@
-# 🌱 TALEA – Città resilienti che crescono dal basso
+# 🌱 TALEA –  Green Cells Leading the Green Transition
+*le città resilienti che crescono dal basso*
 
 **TALEA** (Transformative Adaptation for Local Environmental Action) è un progetto europeo innovativo che punta a trasformare le città in luoghi più verdi, equi e resilienti ai cambiamenti climatici, con un approccio partecipativo, tecnologico e basato sui dati.
 
@@ -28,7 +29,19 @@ La piattaforma digitale del progetto è un repository aperto su GitHub dove veng
 ## 🏛 Un progetto europeo
 
 TALEA è coordinato dal **Comune di Bologna**, con il supporto di università, centri di ricerca (tra cui **Fondazione Bruno Kessler**) e partner internazionali. Finanziato nell’ambito dell’**European Urban Initiative – Innovative Actions**, ha una durata di 42 mesi (dicembre 2024 – maggio 2028).
-
+TALEA è un progetto finanziato dall'Unione Europea nell'ambito della **European Urban Initiative – Innovative Actions (EUI-IA), Call 2 – 2024**.
+Il ha una durata di 42 mesi (dicembre 2024 – maggio 2028).
+Partner coinvolti:
+- **Comune di Bologna**
+- **Alma Mater Studiorum – Università di Bologna**
+- **CINECA Consorzio Interuniversitario**
+- **Fondazione Bruno Kessler**
+- **Fondazione per l’Innovazione Urbana**
+- **Municipality of Cluj-Napoca (Romania)**
+- **Municipality of Marseille (Francia)**
+- **Municipality of Riga (Lettonia)**
+- **R2M Solution S.r.l.**
+- **R3GIS S.r.l.**
 ---
 
 ## ✨ Obiettivo
