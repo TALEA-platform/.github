@@ -1,6 +1,6 @@
 # 🌱 TALEA – Green Cells Leading the Green Transition
 
-[🇮🇹 Versione in italiano qui](#versione-in-italiano) • [🇬🇧 English version here](#english-version)
+[🇮🇹 Versione in italiano qui](#-versione-in-italiano) • [🇬🇧 English version here](#-english-version)
 
 ---
 
