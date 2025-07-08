@@ -28,9 +28,10 @@ La piattaforma digitale del progetto è un repository aperto su GitHub dove veng
 👉 **Scoprila su:** [github.com/talea-platform](https://github.com/talea-platform)
 
 ### 🏛 Un progetto europeo
+![](https://talea-platform.github.io/images/eui.svg)
 
-TALEA è coordinato dal **Comune di Bologna**, con il supporto di università, centri di ricerca (tra cui **Fondazione Bruno Kessler**) e partner internazionali.  
-Finanziato nell’ambito dell’**European Urban Initiative – Innovative Actions (EUI-IA), Call 2 – 2024**, ha una durata di 42 mesi (dicembre 2024 – maggio 2028).
+TALEA è coordinato dal **Comune di Bologna**, con il supporto di università, centri di ricerca e partner internazionali.  
+Ci-finanziato nell’ambito dell’**European Urban Initiative – Innovative Actions (EUI-IA), Call 2 – 2024**, ha una durata di 42 mesi (dicembre 2024 – maggio 2028).
 
 **Partner coinvolti:**
 - **Comune di Bologna**
@@ -49,6 +50,8 @@ Finanziato nell’ambito dell’**European Urban Initiative – Innovative Actio
 Promuovere città che si rigenerano “dal basso”, a partire da piccole unità verdi – le **Talea Green Cells (TGC)** – che fungono da catalizzatori di trasformazioni ecologiche, sociali e digitali.
 
 > 🌿 *Come una talea che mette radici, ogni TGC porta nuova vita nel tessuto urbano.*
+
+![](https://talea-platform.github.io/images/cofoundedeu.svg)
 
 ---
 
@@ -76,9 +79,9 @@ The project’s digital platform is an open repository on GitHub where the follo
 👉 **Explore it at:** [github.com/talea-platform](https://github.com/talea-platform)
 
 ### 🏛 A European Project
-
-TALEA is coordinated by the **Municipality of Bologna**, with the support of universities, research centers (including **Fondazione Bruno Kessler**), and international partners.  
-It is funded under the **European Urban Initiative – Innovative Actions (EUI-IA), Call 2 – 2024**, and runs for 42 months (December 2024 – May 2028).
+![](https://talea-platform.github.io/images/eui.svg)
+TALEA is coordinated by the **Municipality of Bologna**, with the support of universities, research centers, and international partners.  
+Co-founded under the **European Urban Initiative – Innovative Actions (EUI-IA), Call 2 – 2024**, and runs for 42 months (December 2024 – May 2028).
 
 **Partners involved:**
 - **Municipality of Bologna**  
@@ -97,3 +100,5 @@ It is funded under the **European Urban Initiative – Innovative Actions (EUI-I
 To promote cities that regenerate “from the ground up,” starting from small green units – the **Talea Green Cells (TGCs)** – that act as catalysts for ecological, social, and digital transformation.
 
 > 🌿 *Like a cutting taking root, each TGC brings new life to the urban fabric.*
+
+![](https://talea-platform.github.io/images/cofoundedeu.svg)
