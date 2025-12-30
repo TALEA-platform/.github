@@ -3,7 +3,55 @@
 [🇮🇹 Versione in italiano qui](#-versione-in-italiano) • [🇬🇧 English version here](#-english-version)
 
 ---
+## 🇬🇧 English version
 
+*resilient cities growing from the ground up*
+
+**TALEA** (Transformative Adaptation for Local Environmental Action) is an innovative European project that aims to transform cities into greener, fairer, and more climate-resilient places through a participatory, technology-driven, and data-informed approach.
+
+### 🔍 What does TALEA do?
+
+- ✅ **Integrates nature-based solutions** with digital technologies to monitor, simulate, and mitigate the effects of climate change.  
+- 🧑‍🤝‍🧑 **Engages citizens** in all phases: co-design, monitoring, and evaluation.  
+- 🌍 **Uses climate, social, and environmental data** to guide informed and transparent public decision-making.  
+- 🏙 **Builds an urban digital twin**, simulating the effects of transformations to enhance their effectiveness.
+
+### 💡 The TALEA Platform
+
+The project’s digital platform is an open repository on GitHub where the following resources are collected and shared:
+
+- 🗺 **Interactive maps** and analyses of urban heat islands and climate shelters  
+- 📊 **Indicators** of environmental sustainability and social inclusiveness  
+- 🧾 **Source code**, datasets, and tools to replicate the model in other European cities  
+
+👉 **Explore it at:** [github.com/talea-platform](https://github.com/talea-platform)
+
+### 🏛 A European Project
+![](https://talea-platform.github.io/images/eui.svg)
+TALEA is coordinated by the **Municipality of Bologna**, with the support of universities, research centers, and international partners.  
+Co-founded under the **European Urban Initiative – Innovative Actions (EUI-IA), Call 2 – 2024**, and runs for 42 months (December 2024 – May 2028).
+
+**Partners involved:**
+- **Municipality of Bologna**  
+- **Alma Mater Studiorum – University of Bologna**  
+- **CINECA Interuniversity Consortium**  
+- **Fondazione Bruno Kessler**  
+- **Fondazione per l’Innovazione Urbana**  
+- **Municipality of Cluj-Napoca (Romania)**  
+- **Municipality of Marseille (France)**  
+- **Municipality of Riga (Latvia)**  
+- **R2M Solution S.r.l.**  
+- **R3GIS S.r.l.**
+
+### ✨ Vision
+
+To promote cities that regenerate “from the ground up,” starting from small green units – the **Talea Green Cells (TGCs)** – that act as catalysts for ecological, social, and digital transformation.
+
+> 🌿 *Like a cutting taking root, each TGC brings new life to the urban fabric.*
+
+![](https://talea-platform.github.io/images/cofoundedeu.svg)
+
+---
 ## 🇮🇹 Versione in italiano
 
 *le città resilienti che crescono dal basso*
@@ -53,52 +101,3 @@ Promuovere città che si rigenerano “dal basso”, a partire da piccole unità
 
 ![](https://talea-platform.github.io/images/cofoundedeu.svg)
 
----
-
-## 🇬🇧 English version
-
-*resilient cities growing from the ground up*
-
-**TALEA** (Transformative Adaptation for Local Environmental Action) is an innovative European project that aims to transform cities into greener, fairer, and more climate-resilient places through a participatory, technology-driven, and data-informed approach.
-
-### 🔍 What does TALEA do?
-
-- ✅ **Integrates nature-based solutions** with digital technologies to monitor, simulate, and mitigate the effects of climate change.  
-- 🧑‍🤝‍🧑 **Engages citizens** in all phases: co-design, monitoring, and evaluation.  
-- 🌍 **Uses climate, social, and environmental data** to guide informed and transparent public decision-making.  
-- 🏙 **Builds an urban digital twin**, simulating the effects of transformations to enhance their effectiveness.
-
-### 💡 The TALEA Platform
-
-The project’s digital platform is an open repository on GitHub where the following resources are collected and shared:
-
-- 🗺 **Interactive maps** and analyses of urban heat islands and climate shelters  
-- 📊 **Indicators** of environmental sustainability and social inclusiveness  
-- 🧾 **Source code**, datasets, and tools to replicate the model in other European cities  
-
-👉 **Explore it at:** [github.com/talea-platform](https://github.com/talea-platform)
-
-### 🏛 A European Project
-![](https://talea-platform.github.io/images/eui.svg)
-TALEA is coordinated by the **Municipality of Bologna**, with the support of universities, research centers, and international partners.  
-Co-founded under the **European Urban Initiative – Innovative Actions (EUI-IA), Call 2 – 2024**, and runs for 42 months (December 2024 – May 2028).
-
-**Partners involved:**
-- **Municipality of Bologna**  
-- **Alma Mater Studiorum – University of Bologna**  
-- **CINECA Interuniversity Consortium**  
-- **Fondazione Bruno Kessler**  
-- **Fondazione per l’Innovazione Urbana**  
-- **Municipality of Cluj-Napoca (Romania)**  
-- **Municipality of Marseille (France)**  
-- **Municipality of Riga (Latvia)**  
-- **R2M Solution S.r.l.**  
-- **R3GIS S.r.l.**
-
-### ✨ Vision
-
-To promote cities that regenerate “from the ground up,” starting from small green units – the **Talea Green Cells (TGCs)** – that act as catalysts for ecological, social, and digital transformation.
-
-> 🌿 *Like a cutting taking root, each TGC brings new life to the urban fabric.*
-
-![](https://talea-platform.github.io/images/cofoundedeu.svg)
